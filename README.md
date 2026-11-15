@@ -77,6 +77,8 @@ your home directory.
 
 ## 📦 Skill Index (388 curated skills)
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server exposing structured North American live-music venue, load-in accessibility, and booking-contact tools for AI agents.
+
 ### 🤖 AI & LLM Tools (50)
 
 | Skill | Description |
