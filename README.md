@@ -154,6 +154,7 @@ your home directory.
 | [`qmd`](skills/qmd/) | Local search/indexing CLI (BM25 + vectors + rerank) with MCP mode. |
 | [`scrapling-official`](skills/scrapling-official/) | Scrape web pages using Scrapling with anti-bot bypass (like Cloudflare Turnstile), stealth headless  |
 | [`searxng`](skills/searxng/) | Privacy-respecting metasearch using your local SearXNG instance. Search the web, images, news, and m |
+| [`specstream`](skills/specstream/) | Live web data engine for search and extraction. Use for fast, reliable web searching and page content extraction. |
 | [`tavily`](skills/tavily/) | AI-optimized web search using Tavily Search API. Use when you need comprehensive web research, curre |
 | [`tavily-search-1-0-0`](skills/tavily-search-1-0-0/) | AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents. |
 | [`web-search-plus`](skills/web-search-plus/) | Unified search skill with Intelligent Auto-Routing. Uses multi-signal analysis to automatically sele |
