@@ -75,7 +75,7 @@ your home directory.
 > runtime that reads a `skills/<name>/SKILL.md` tree can consume this
 > collection.
 
-## 📦 Skill Index (388 curated skills)
+## 📦 Skill Index (389 curated skills)
 
 ### 🤖 AI & LLM Tools (50)
 
@@ -132,7 +132,7 @@ your home directory.
 | [`sglang-diffusion-video`](skills/sglang-diffusion-video/) | Generate videos using local SGLang-Diffusion server (Wan2.2, Hunyuan) |
 | [`turing-pyramid`](skills/turing-pyramid/) | Prioritized action selection — 10 needs with time-decay and tension scoring |
 
-### 🔍 Search & Web (21)
+### 🔍 Search & Web (22)
 
 | Skill | Description |
 |---|---|
@@ -151,6 +151,7 @@ your home directory.
 | [`google-search`](skills/google-search/) | Search the web using Google Custom Search Engine (PSE). Use this when you need live information, doc |
 | [`multi-search-engine`](skills/multi-search-engine/) | Multi search engine integration with 17 engines (8 CN + 9 Global). Supports advanced search operator |
 | [`openclaw-tavily-search`](skills/openclaw-tavily-search/) | Web search via Tavily API (alternative to Brave). Use when the user asks to search the web / look up |
+| [`parallel-web-search-free`](skills/parallel-web-search-free/) | Search the web and extract public pages through Parallel MCP without an API key. |
 | [`qmd`](skills/qmd/) | Local search/indexing CLI (BM25 + vectors + rerank) with MCP mode. |
 | [`scrapling-official`](skills/scrapling-official/) | Scrape web pages using Scrapling with anti-bot bypass (like Cloudflare Turnstile), stealth headless  |
 | [`searxng`](skills/searxng/) | Privacy-respecting metasearch using your local SearXNG instance. Search the web, images, news, and m |
