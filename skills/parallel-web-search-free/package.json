@@ -1,0 +1,12 @@
+{
+  "name": "parallel-web-search-free",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/client": "2.4.0"
+  }
+}
