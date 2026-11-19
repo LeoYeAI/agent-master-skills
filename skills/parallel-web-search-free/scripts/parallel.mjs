@@ -75,7 +75,11 @@ async function run(command, values) {
   try {
     await client.connect(transport, { signal });
     const result = await client.callTool(tool, undefined, { signal });
-    console.log(JSON.stringify(toolPayload(result)));
+    const payload = toolPayload(result);
+    console.log(JSON.stringify(payload));
+    if (command === 'fetch' && payload.results.length === 0 && Array.isArray(payload.errors) && payload.errors.length > 0) {
+      process.exitCode = 1;
+    }
   } finally {
     await transport.terminateSession().catch(() => {});
     await client.close().catch(() => {});
