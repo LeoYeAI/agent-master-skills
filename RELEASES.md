@@ -3,6 +3,23 @@
 每次更新的详细发布说明。
 
 
+## v0.22.14 — 2026-11-22
+
+### 🚀 日更：新增 6 个 Skills，总计 3233
+
+来源：头部技能仓库（obra/superpowers、addyosmani/agent-skills、wshobson/agents 等），按质量规则筛选（SKILL.md 800B-30KB、完整 YAML 元数据、有效 description）。
+
+#### 部分新增亮点（前 30 个）
+- `video-director` — Use whenever the user asks you to make, plan or produce a whole video - a launch teaser, promo, explainer, trailer, soci
+- `video-animatic` — Use when building an animation, motion graphic, kinetic type, animated chart from data, or animatic with code and render
+- `source-audit` — Use before publishing a draft that cites links: verify that each claim is actually supported by the source it points to,
+- `video-beat-board` — Use whenever the user asks "will this voice-over fit in 30 seconds?", "is my reel script too long?", "what should I cut?
+- `video-conform` — Use when finishing a video for delivery - mix voice-over and music, normalize loudness, add or burn in captions, and exp
+- `game-universe-studio` — Use when building a browser game prototype (Canvas, WebGL, Three.js, PixiJS, Babylon) and its character turnaround sheet
+
+---
+
+
 ## v0.22.13 — 2026-11-19
 
 ### 🚀 日更：新增 1 个 Skills，总计 3227
